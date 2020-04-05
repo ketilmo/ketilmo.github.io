@@ -1,0 +1,305 @@
+{
+  version: 8,
+  sources: {
+    ck8ne5sb40000ss36vxn6zns9: {
+      type: 'geojson',
+      data: {
+        type: 'FeatureCollection',
+        features: [
+          {
+            type: 'Feature',
+            properties: {
+              title: 'Avstikker',
+              description: 'På vei ned igjen tok vi en avstikker til det nye radartårnet (den høye masten). Utsikten som venter her er verdt de ekstra minuttene med gange.',
+              id: 'ci25oasl31sk8bqrwfi5813zk',
+              stroke: '#f86767',
+              'stroke-width': 4,
+              'stroke-opacity': 1,
+              _id: 'ck8ne5sb50001ss36k23i5uv5'
+            },
+            geometry: {
+              coordinates: [
+                [ 5.118142, 60.318318 ],
+                [ 5.118008, 60.318323 ],
+                [ 5.117885, 60.318368 ],
+                [ 5.117869, 60.318451 ],
+                [ 5.117853, 60.318506 ],
+                [ 5.117864, 60.318586 ],
+                [ 5.117842, 60.318645 ],
+                [ 5.117778, 60.318708 ],
+                [ 5.117585, 60.318756 ],
+                [ 5.117338, 60.318734 ],
+                [ 5.117112, 60.31861 ],
+                [ 5.116876, 60.318504 ],
+                [ 5.116732, 60.318488 ],
+                [ 5.116568, 60.318488 ],
+                [ 5.116335, 60.318501 ],
+                [ 5.116083, 60.318546 ],
+                [ 5.115911, 60.318581 ],
+                [ 5.115766, 60.318637 ],
+                [ 5.115659, 60.318743 ],
+                [ 5.1156, 60.318841 ],
+                [ 5.11545, 60.318913 ],
+                [ 5.115391, 60.318971 ],
+                [ 5.115412, 60.31903 ],
+                [ 5.115525, 60.31907 ],
+                [ 5.115718, 60.319101 ]
+              ],
+              type: 'LineString'
+            },
+            id: 'ci9bscjjm0g4vp6lvz1hmicub'
+          },
+          {
+            type: 'Feature',
+            properties: {
+              id: 'ci25oasl51sk9bqrwce5zdfr3',
+              title: 'Start',
+              description: 'Turen starter like ovenfor parkeringsplassen. Følg veien oppover mot fjellet.',
+              'marker-size': 'medium',
+              'marker-color': '#1087bf',
+              'marker-symbol': 's',
+              _id: 'ck8ne5sb50003ss36j1qwynop'
+            },
+            geometry: { coordinates: [ 5.120516, 60.333489 ], type: 'Point' },
+            id: 'ci9bscjjr0g4wp6lv6kjxlh8p'
+          },
+          {
+            type: 'Feature',
+            properties: {
+              id: 'ci25oasl61skabqrwy3jc38of',
+              title: 'Parkering',
+              description: 'Det er begrenset med plasser på parkeringen, men det er mulig å sette bilen langs veien også.',
+              'marker-size': 'medium',
+              'marker-color': '#1087bf',
+              'marker-symbol': 'parking',
+              _id: 'ck8ne5sb50005ss36z1q2ptiw'
+            },
+            geometry: { coordinates: [ 5.120656, 60.333587 ], type: 'Point' },
+            id: 'ci9bscjjv0g4xp6lvf9n8ennv'
+          },
+          {
+            type: 'Feature',
+            properties: {
+              name: 'Path',
+              styleUrl: '#lineStyle',
+              styleHash: '6970cd59',
+              title: 'Ruten',
+              description: 'Vi fulgte den asfalterte veien til den eldste og laveste radaren. På vei ned tok vi avstikkeren til det nye tårnet. ',
+              'marker-color': '',
+              'marker-size': '',
+              'marker-symbol': '',
+              id: 'ci25oasl81skbbqrwp3zc585a',
+              stroke: '#f86767',
+              'stroke-width': 4,
+              'stroke-opacity': 1,
+              _id: 'ck8ne5sb50007ss36ofas3cqu'
+            },
+            geometry: {
+              coordinates: [
+                [ 5.12053, 60.333485 ],
+                [ 5.120315, 60.333384 ],
+                [ 5.120063, 60.333209 ],
+                [ 5.119789, 60.33302 ],
+                [ 5.119548, 60.332951 ],
+                [ 5.119478, 60.332858 ],
+                [ 5.119371, 60.332656 ],
+                [ 5.119221, 60.332542 ],
+                [ 5.119022, 60.332542 ],
+                [ 5.11891, 60.332571 ],
+                [ 5.118856, 60.332651 ],
+                [ 5.118674, 60.332898 ],
+                [ 5.118491, 60.333291 ],
+                [ 5.11847, 60.33351 ],
+                [ 5.11841, 60.33363 ],
+                [ 5.1182, 60.33378 ],
+                [ 5.11803, 60.33384 ],
+                [ 5.11782, 60.33385 ],
+                [ 5.11766, 60.33382 ],
+                [ 5.1176, 60.33367 ],
+                [ 5.11774, 60.33352 ],
+                [ 5.117826, 60.333315 ],
+                [ 5.117783, 60.333172 ],
+                [ 5.117611, 60.332826 ],
+                [ 5.117472, 60.332731 ],
+                [ 5.1163, 60.33255 ],
+                [ 5.11585, 60.33216 ],
+                [ 5.11572, 60.3319 ],
+                [ 5.11552, 60.33164 ],
+                [ 5.115337, 60.331366 ],
+                [ 5.115122, 60.331286 ],
+                [ 5.11343, 60.33077 ],
+                [ 5.11286, 60.3304 ],
+                [ 5.11279, 60.33031 ],
+                [ 5.11274, 60.33 ],
+                [ 5.11231, 60.32954 ],
+                [ 5.112236, 60.329449 ],
+                [ 5.112268, 60.329305 ],
+                [ 5.11213, 60.32907 ],
+                [ 5.11161, 60.32838 ],
+                [ 5.11156, 60.32805 ],
+                [ 5.111281, 60.327622 ],
+                [ 5.11118, 60.32652 ],
+                [ 5.11127, 60.32646 ],
+                [ 5.1117, 60.3263 ],
+                [ 5.111807, 60.326145 ],
+                [ 5.11147, 60.32573 ],
+                [ 5.11128, 60.3256 ],
+                [ 5.110938, 60.325391 ],
+                [ 5.110788, 60.325301 ],
+                [ 5.110938, 60.3252 ],
+                [ 5.111517, 60.325205 ],
+                [ 5.11181, 60.32522 ],
+                [ 5.112118, 60.325083 ],
+                [ 5.11215, 60.32494 ],
+                [ 5.11215, 60.3248 ],
+                [ 5.11171, 60.3241 ],
+                [ 5.111432, 60.323904 ],
+                [ 5.11141, 60.323776 ],
+                [ 5.11146, 60.32355 ],
+                [ 5.111335, 60.323362 ],
+                [ 5.111378, 60.323272 ],
+                [ 5.111507, 60.323261 ],
+                [ 5.111721, 60.323426 ],
+                [ 5.112816, 60.323468 ],
+                [ 5.113223, 60.323532 ],
+                [ 5.113599, 60.323527 ],
+                [ 5.11391, 60.323458 ],
+                [ 5.114543, 60.323208 ],
+                [ 5.114768, 60.323064 ],
+                [ 5.114725, 60.322948 ],
+                [ 5.11432, 60.3227 ],
+                [ 5.114285, 60.322592 ],
+                [ 5.114951, 60.322284 ],
+                [ 5.115541, 60.322135 ],
+                [ 5.116442, 60.321922 ],
+                [ 5.117011, 60.321731 ],
+                [ 5.117386, 60.321561 ],
+                [ 5.117515, 60.321301 ],
+                [ 5.117686, 60.321067 ],
+                [ 5.117826, 60.320945 ],
+                [ 5.118116, 60.320801 ],
+                [ 5.118545, 60.320716 ],
+                [ 5.118759, 60.320562 ],
+                [ 5.118684, 60.320366 ],
+                [ 5.118523, 60.320074 ],
+                [ 5.118448, 60.319941 ],
+                [ 5.118362, 60.319792 ],
+                [ 5.118491, 60.3195 ],
+                [ 5.118545, 60.319245 ],
+                [ 5.118201, 60.318724 ],
+                [ 5.118169, 60.318437 ],
+                [ 5.118148, 60.318209 ],
+                [ 5.118244, 60.318023 ],
+                [ 5.118277, 60.317896 ],
+                [ 5.118384, 60.317736 ],
+                [ 5.118373, 60.31764 ],
+                [ 5.118234, 60.317481 ],
+                [ 5.118073, 60.3173 ],
+                [ 5.11788, 60.317152 ],
+                ... 5 more items
+              ],
+              type: 'LineString'
+            },
+            id: 'ci9bscjjw0g4yp6lvlyd4ll5m'
+          },
+          {
+            type: 'Feature',
+            properties: {
+              id: 'ci25oasla1skcbqrwi8b4b5uk',
+              title: 'Den gamle radaren',
+              description: 'Vår første mål var den gamle radaren på Pyttane. Husk å skrive i turboken, som ligger i en postkasse like ved døren til tårnet.',
+              'marker-size': 'medium',
+              'marker-color': '#1087bf',
+              'marker-symbol': 'embassy',
+              _id: 'ck8ne5sb50009ss3618p4tcl6'
+            },
+            geometry: { coordinates: [ 5.116517, 60.31679 ], type: 'Point' },
+            id: 'ci9bscjk00g4zp6lv11wpk26x'
+          },
+          {
+            type: 'Feature',
+            properties: {
+              id: 'ci25oaslc1skdbqrwr71znfbm',
+              title: 'Den nye radaren',
+              description: 'På vei ned igjen, tok vi en avstikker opp til den nye radaren. Her er det en fantastisk utsikt. Ikke gå glipp av denne!',
+              'marker-size': 'medium',
+              'marker-color': '#1087bf',
+              'marker-symbol': 'embassy',
+              _id: 'ck8ne5sb5000bss36jtndnhey'
+            },
+            geometry: { coordinates: [ 5.115787, 60.319107 ], type: 'Point' },
+            id: 'ci9bscjk10g50p6lvqj7bphne'
+          }
+        ],
+        id: 'ketilmo.ifi3dnoo'
+      }
+    }
+  },
+  layers: [
+    {
+      type: 'line',
+      source: 'ck8ne5sb40000ss36vxn6zns9',
+      id: 'ck8ne5sb50002ss3676z60qcf',
+      paint: { 'line-color': '#f86767', 'line-opacity': 1, 'line-width': 4 },
+      layout: { 'line-cap': 'round', 'line-join': 'bevel' },
+      filter: [ '==', '_id', 'ck8ne5sb50001ss36k23i5uv5' ]
+    },
+    {
+      source: 'ck8ne5sb40000ss36vxn6zns9',
+      id: 'ck8ne5sb50004ss36wjy74d2f',
+      type: 'symbol',
+      layout: {
+        'icon-image': 'ck8ne5sb50003ss36j1qwynop',
+        'icon-size': 1,
+        'icon-allow-overlap': true,
+        'icon-ignore-placement': true
+      },
+      filter: [ '==', '_id', 'ck8ne5sb50003ss36j1qwynop' ]
+    },
+    {
+      source: 'ck8ne5sb40000ss36vxn6zns9',
+      id: 'ck8ne5sb50006ss36abrvp5mo',
+      type: 'symbol',
+      layout: {
+        'icon-image': 'ck8ne5sb50005ss36z1q2ptiw',
+        'icon-size': 1,
+        'icon-allow-overlap': true,
+        'icon-ignore-placement': true
+      },
+      filter: [ '==', '_id', 'ck8ne5sb50005ss36z1q2ptiw' ]
+    },
+    {
+      type: 'line',
+      source: 'ck8ne5sb40000ss36vxn6zns9',
+      id: 'ck8ne5sb50008ss365npx8p3k',
+      paint: { 'line-color': '#f86767', 'line-opacity': 1, 'line-width': 4 },
+      layout: { 'line-cap': 'round', 'line-join': 'bevel' },
+      filter: [ '==', '_id', 'ck8ne5sb50007ss36ofas3cqu' ]
+    },
+    {
+      source: 'ck8ne5sb40000ss36vxn6zns9',
+      id: 'ck8ne5sb5000ass36rzo6vs93',
+      type: 'symbol',
+      layout: {
+        'icon-image': 'ck8ne5sb50009ss3618p4tcl6',
+        'icon-size': 1,
+        'icon-allow-overlap': true,
+        'icon-ignore-placement': true
+      },
+      filter: [ '==', '_id', 'ck8ne5sb50009ss3618p4tcl6' ]
+    },
+    {
+      source: 'ck8ne5sb40000ss36vxn6zns9',
+      id: 'ck8ne5sb5000css36dhshisww',
+      type: 'symbol',
+      layout: {
+        'icon-image': 'ck8ne5sb5000bss36jtndnhey',
+        'icon-size': 1,
+        'icon-allow-overlap': true,
+        'icon-ignore-placement': true
+      },
+      filter: [ '==', '_id', 'ck8ne5sb5000bss36jtndnhey' ]
+    }
+  ],
+  glyphs: 'mapbox://fonts/mapbox/{fontstack}/{range}.pbf'
+}
